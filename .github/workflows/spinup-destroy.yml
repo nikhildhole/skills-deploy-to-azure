@@ -1,4 +1,4 @@
-name: Configure Azure environment
+name: Configure Azure environment 
 
 on:
   pull_request:
@@ -10,7 +10,7 @@ env:
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"East US"'
   ###############################################
-  ### Replace <username> with GitHub username ###
+  ### Replace nikhildhole with GitHub username ###
   ###############################################
   AZURE_WEBAPP_NAME: nikhildhole-ttt-app
 
